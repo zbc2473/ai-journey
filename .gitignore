@@ -1,0 +1,14 @@
+# 本地资料，不进仓库
+/plan/
+/python/
+/tmp/
+ualliance_bundle.js
+
+# 生成物 / 缓存
+__pycache__/
+*.pyc
+.venv/
+*.stdin
+*.log
+*.xlsx
+~$*
